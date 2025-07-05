@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tiko - Terms of Service</title>
 </head>
 <body>
   <h1>📜 Tiko — Terms of Service (ToS)</h1>
